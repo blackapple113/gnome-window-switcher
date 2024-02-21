@@ -1,10 +1,10 @@
 # gnome-window-switcher
-change the standard alt-tab behaviour to known one from Mac or Windows
+Change the standard Alt-Tab behavior to the known one from Mac or Windows.
 
 ![Example image](gnome-window-switcher.png)
 
 ## Usage
-Put the `gnome-window-switcher.sh` file anywhere and make it executable with:
+To make the `gnome-window-switcher.sh` file executable, store it in any desired location and run the command:
 ```
 chmod +x ./gnome-window-switcher.sh
 ```
